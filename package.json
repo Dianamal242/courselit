@@ -23,7 +23,7 @@
     "publish": "yarn workspaces foreach --no-private npm publish",
     "dev": "yarn workspace @courselit/web dev"
   },
-  "packageManager": "yarn@3.2.0",
+  "packageManager": "yarn@3.2.4",
   "devDependencies": {
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
